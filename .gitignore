@@ -1,0 +1,10 @@
+DerivedData/
+build/
+xcuserdata/
+*.xcuserstate
+.DS_Store
+Sources/Articulate/Models/HuPER/
+Sources/Articulate/.huper.*/
+build-vocal-coach/
+Sources/VocalCoach/PageHumVoice/
+Sources/VocalCoach/.voice-stage.*/

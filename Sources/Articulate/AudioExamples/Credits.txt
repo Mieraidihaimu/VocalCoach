@@ -1,0 +1,24 @@
+Articulate audio credits
+
+The recorded examples below come from Wikimedia Commons. They have been converted to PCM WAV and their playback levels adjusted. The adapted clips are provided under the same licences as their source recordings.
+
+bath, sports car, far away and vestige
+Recorded and spoken by Vealhurl for Lingua Libre.
+Licence: Creative Commons Attribution-ShareAlike 4.0 International
+https://creativecommons.org/licenses/by-sa/4.0/
+https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Vealhurl-Bath.wav
+https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Vealhurl-sports_car.wav
+https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Vealhurl-far_away.wav
+https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Vealhurl-vestige.wav
+
+thin
+Recorded and spoken by Vealhurl for Lingua Libre.
+Licence: Creative Commons Attribution 4.0 International
+https://creativecommons.org/licenses/by/4.0/
+https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Vealhurl-thin.wav
+
+a ship
+Recorded by Association Shtooka, spoken by Judith Franck.
+Licence: Creative Commons Attribution 3.0 United States
+https://creativecommons.org/licenses/by/3.0/us/
+https://commons.wikimedia.org/wiki/File:En-uk-a_ship.ogg
